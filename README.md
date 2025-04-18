@@ -23,7 +23,7 @@ Your Sincerely: We would happy to discuss this proposal further and answer any q
 
 ( Hamad Khan ) hamadkhan2553@gmail.com
 
-![Image](https://github.com/user-attachments/assets/c0ac8b59-96a5-49c0-82e4-8fd2dd64068a)
+![Image](https://github.com/user-attachments/assets/0d72dd96-bc59-4f58-a7aa-536cfcdf047a)
 
 ![Image](https://github.com/user-attachments/assets/08b2f99c-b056-4bf8-a34f-09746564821f)
 
