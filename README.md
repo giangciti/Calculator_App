@@ -2,7 +2,7 @@
 # WinRar / ZIP File Password: hamadkhan
 Calculator App ( calculator app develop in flutter for android mobile )
 
-When i was studying bscs (bachelor of science in computer science) and was in my 4th semester, there was a 4th semester project that i completed and thsi was the subject of android studio and i used HTML, CSS, JavaScript languages coding in that project).
+When i was studying bscs (bachelor of science in computer science) and was in my 4th semester, there was a 4th semester project that i completed and thsi was the subject of mobile application development and i used HTML, CSS, JavaScript languages coding in that project).
 
 Objective:
 This calculators are often used for simple arithmetic operations like addition, subtraction, multiplication, and division. They provide quick/fast and accurate results for everyday calculations, such as balancing a checkbook or calculating a tip at a restaurant.
